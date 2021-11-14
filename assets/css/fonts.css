@@ -13,7 +13,7 @@
   font-weight: 700;
   font-style: normal;
   src: local('Miso'),
-  url(/assets/fonts/miso-bold.woff2) format('woff2'),
+  url(../../assets/fonts/miso-bold.woff2) format('woff2'),
   url(/assets/fonts/miso-bold.woff) format('woff'),
   url(/assets/fonts/miso-bold.ttf) format('ttf'),
   url(/assets/fonts/miso-bold.eot) format('eot');
